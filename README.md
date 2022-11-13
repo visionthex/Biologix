@@ -1,5 +1,5 @@
 # Biologix
-This was a project that I created at college in 2012 and I thought I would share it with everyone that is interested in checking it out.  It is a simple Visual Basic Progam that I created to do invoices for a chemical company that I made up.  
+This was a project that I created at college in 2015 and I thought I would share it with everyone that is interested in checking it out.  It is a simple Visual Basic Progam that I created to do invoices for a chemical company that I made up.  
 
 USERS GUIDE
 Visual Basic - Invoice Project
