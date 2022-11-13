@@ -1,5 +1,6 @@
 # Biologix
-<img src="[https://user-images.githubusercontent.com/link-to-your-image.png](https://user-images.githubusercontent.com/12945384/201542893-9e29f88b-64a9-4892-8b3a-1d99845c42be.jpg)" width="200" />
+
+<img src="https://user-images.githubusercontent.com/12945384/201542893-9e29f88b-64a9-4892-8b3a-1d99845c42be.jpg" width=50% height=50%>
 This was a project that I created at college in 2015 and I thought I would share it with everyone that is interested in checking it out. It is a simple Visual Basic Program that I created to do invoices for a chemical company that I made up.
 
 USERS GUIDE Visual Basic - Invoice Project
