@@ -1,4 +1,6 @@
 # Biologix User Guide
+[![Biologix Software Suite](https://img.shields.io/badge/Biologix%20Software%20Suite-v0.1-brightgreen)](https://github.com/your-username/biologix-software-suite)
+
 
 Welcome to Biologix, a Visual Basic program designed for managing invoices in a fictional chemical company. This User Guide provides an overview of the program's features and functionalities.
 
