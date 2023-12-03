@@ -48,7 +48,7 @@ Additional features include an About page, Disclaimer, edit tabs and shortcuts, 
 
 It's important to note that the program's security has some flaws. Passwords are stored in a file and considered insecure. Future programs should adopt more secure practices.
 
-
+<br><br>
 
 > __Note:__ For detailed instructions on each module's features and functionalities, please refer to the corresponding source code files.
 >
