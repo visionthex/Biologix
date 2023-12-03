@@ -69,4 +69,41 @@ It's important to note that the program's security has some flaws. Passwords are
 ## Folder Structure on GitHub
 
 To maintain a clean structure on GitHub, the source code files can be organized as follows:
+Biologix/
+│
+├── Documentation/
+│   ├── UserGuide.md
+│   └── Screenshots/
+│       ├── LoginScreen.png
+│       ├── MainProgram.png
+│       ├── MemoPad.png
+│       └── ... (other screenshots)
+│
+├── SourceCode/
+│   ├── Calculator/
+│   │   └── Calculator.vb
+│   ├── Loops/
+│   │   └── Loops.vb
+│   ├── CardGame/
+│   │   └── CardGame.vb
+│   ├── Array/
+│   │   └── Array.vb
+│   ├── Fractals/
+│   │   └── Fractals.vb
+│   ├── Functions/
+│   │   └── Functions.vb
+│   ├── LoginScreen/
+│   │   └── LoginScreen.vb
+│   ├── MainProgram/
+│   │   └── MainProgram.vb
+│   ├── MemoPad/
+│   │   └── MemoPad.vb
+│   ├── Module/
+│   │   └── Module.vb
+│   ├── Pong/
+│   │   └── Pong.vb
+│   └── Animation/
+│       └── Animation.vb
+│
+└── README.md
 
