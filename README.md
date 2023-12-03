@@ -1,5 +1,5 @@
 # Biologix: Innovative Visual Basic Invoice Project
-[![Biologix Software Suite](https://img.shields.io/badge/Biologix%20Software%20Suite-v0.1-brightgreen)](https://github.com/your-username/biologix-software-suite)
+[![Biologix Software Suite](https://img.shields.io/badge/Biologix%20Software%20Suite-v0.1-brightgreen)](https://github.com/your-username/biologix-software-suite) ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-6BA5E0?style=flat-square&logo=visual-studio&logoColor=white)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/12945384/201542893-9e29f88b-64a9-4892-8b3a-1d99845c42be.jpg" width="40%" height="40%">
