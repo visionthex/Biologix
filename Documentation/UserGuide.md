@@ -69,6 +69,7 @@ It's important to note that the program's security has some flaws. Passwords are
 ## Folder Structure on GitHub
 
 To maintain a clean structure on GitHub, the source code files can be organized as follows:
+```
 Biologix/
 │
 ├── Documentation/
@@ -106,4 +107,4 @@ Biologix/
 │       └── Animation.vb
 │
 └── README.md
-
+```
